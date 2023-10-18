@@ -6,7 +6,7 @@ and integrate them with a Makefile.
 ## Context
 
 Some time ago, there was no `go install`. Installing dependencies from Go source
-code meant you had a few options:
+code meant you had a few options, among others (not an exhaustive list):
 
 * Clone the repository and `go build` it yourself.
 * Download binaries from releases, if there are any with binaries attached
